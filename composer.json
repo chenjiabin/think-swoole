@@ -1,12 +1,11 @@
 {
-    "name": "topthink/think-swoole",
-    "description": "Swoole extend for thinkphp5.1",
+    "name": "chenjiabin/think-swoole",
+    "description": "Swoole extend for thinkphp5.0",
     "license": "Apache-2.0",
     "type": "think-extend",
     "authors": [
         {
-            "name": "liu21st",
-            "email": "liu21st@gmail.com"
+            "name": "橙加冰"
         }
     ],
     "require": {
